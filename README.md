@@ -35,3 +35,8 @@ The project aims to automatically prepare jumpcuts based on silence detection an
 - Automatically apply a LUT
 - Apply audio denoiser
 - Apply some presets I have configured in Resolve
+
+## Reference
+- Unofficial DaVinci Resolve Scripting Documentation - https://deric.github.io/DaVinciResolve-API-Docs/
+- SMPTE Timecode Python library - https://github.com/eoyilmaz/timecode
+- Frames to SMPTE timecode code - https://gist.github.com/manneohrstrom/8033e178cd38589b0226b45cef1dfe30
